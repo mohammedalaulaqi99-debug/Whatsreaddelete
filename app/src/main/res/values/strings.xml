@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReadDelete</string>
+    <string name="accessibility_description">Monitors visible WhatsApp interface elements for ReadDelete test messages. It does not currently delete messages.</string>
+</resources>
